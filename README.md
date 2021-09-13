@@ -5,15 +5,15 @@ _Thème et fonctionnalités du site vitrine édité par **Halil BAGDADI**_
 - Télécharger le fichier *.zip* contenant le projet
 - Décompresser le fichier en double cliquant dessus
 
-![Décompression fichier zip](https://github.com/HalilSacpapa/site-vitrine_interprete/blob/main/images/unzip.png?raw=true)
+<img src="./images/unzip.png" alt="Décompression fichier zip" width="200">
 
 Ouvrir le fichier __index.html__ en faisant un *clic droit*, puis en séléctionnant *"ouvrir avec"*
 
-![Launch website](https://github.com/HalilSacpapa/site-vitrine_interprete/blob/main/images/launch.png?raw=true)
+<img src="./images/launch.png" alt="Launch website" width="300">
 
 Vous avez maintenant accès au site sur une *URL* semblable à celle-ci !
 
-![Access to website](https://github.com/HalilSacpapa/site-vitrine_interprete/blob/main/images/localUrl.png?raw=true)
+<img src="./images/localUrl.png" alt="Access to website" width="400">
 
 Vous pouvez naviguer dans tout le site, mais il ne sera visible que sur votre machine.
 
