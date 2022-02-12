@@ -10,7 +10,7 @@ _Thème et fonctionnalités du site vitrine édité par **Halil BAGDADI**_
 
 <img src="./images/unzip.png" alt="Décompression fichier zip" width="200">
 
-Ouvrir le fichier __index.html__ en faisant un *clic droit*, puis en séléctionnant *"ouvrir avec"* et votre navigateur web.
+Ouvrir le fichier __index.html__ en faisant un *clic droit*, puis en séléctionnant *"ouvrir avec"* suivi de votre navigateur web.
 
 <img src="./images/launch.png" alt="Launch website" width="300">
 
