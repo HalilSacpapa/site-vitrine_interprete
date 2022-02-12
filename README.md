@@ -20,4 +20,4 @@ Vous avez maintenant accès au site sur une *URL* semblable à celle-ci !
 
 Vous pouvez naviguer dans tout le site, mais il ne sera visible que sur votre machine.
 
-Si vous voulez la dernière version du site, il faudra répéter cette opération en téléchargeant un nouveau fichier *.zip* depuis [cette page](https://github.com/HalilSacpapa/site-vitrine_interprete)
+Pour récupérer la dernière version du site, il faudra répéter cette opération en téléchargeant un nouveau fichier *.zip* depuis [cette page](https://github.com/HalilSacpapa/site-vitrine_interprete)
