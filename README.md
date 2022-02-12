@@ -4,7 +4,7 @@ _Thème et fonctionnalités du site vitrine édité par **Halil BAGDADI**_
 ## Tester le site en local sur MacOS
 - Télécharger le fichier *.zip* contenant le projet
 
-<img src="./images/download.png" alt="Téléchargement fichier zip" width="200">
+<img src="./images/download.png" alt="Téléchargement fichier zip" width="600">
 
 - Décompresser le fichier en double cliquant dessus
 
